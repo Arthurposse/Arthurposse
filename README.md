@@ -17,4 +17,4 @@ Tenho 17 anos, moro no Rio Grande do Sul e gosto de programação!! Sou aventure
 </div>
 
 ### 💬 Contato
-Você pode falar comigo pelo Email: apossebon@gmail.com
+Você pode falar comigo pelo Email: apossebonn@gmail.com
