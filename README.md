@@ -1,6 +1,6 @@
 ### Olá! me chamo Arthur 👋
 
-Tenho 17 anos, moro no Rio Grande do Sul e gosto de programação!! Sou aventureiro no universo da programação, criando bugs todo dia, e quanto mais eu aprendo sobre programação e passo raiva, mais eu gosto mesmo assim. Gosto bastante de programar, ver séries e filmes, jogar jogos e gosto de aprender algo novo.
+Tenho 17 anos, moro no Rio Grande do Sul e gosto de programação!! Sou aventureiro no universo da programação, criando bugs todo dia, e quanto mais eu aprendo sobre e passo raiva, mais eu gosto mesmo assim. Gosto bastante de programar, ver séries e filmes, jogar jogos e gosto de aprender algo novo.
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS, React e MySQL.
 - 🔭 Atualmente estou trabalhando na SKA: soluções tecnológicas e sustentáveis para indústria 4.0
