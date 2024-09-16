@@ -41,13 +41,15 @@
 <br>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
-  <a href="www.linkedin.com/in/arthur-possebon-74a845268" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin"> </a> 
-  <a href="mailto:apossebonn@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Icone Gmail"> </a> 
-  <a href="https://www.instagram.com/arthur_posse/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Icone Instagram"> </a> 
-  
+  <a href="https://www.linkedin.com/in/arthur-possebon-74a845268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Icone Linkedin">
+  </a>
+  <a href="mailto:apossebonn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Icone Gmail">
+  </a>
+  <a href="https://www.instagram.com/arthur_posse/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Icone Instagram">
+  </a>
 </div>
 
 <br> <br>
