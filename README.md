@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Icon HTML" height="45" width="55">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Icon CSS" height="45" width="55">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Icon JavaScript" height="45" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Icon React" height="45" width="55">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Icon React" height="45" width="55"> -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Icon MySQL" height="45" width="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Icon Git" height="45" width="55">
   </div>
