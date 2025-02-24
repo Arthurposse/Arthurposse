@@ -9,7 +9,7 @@
 
 <br>
 
-<p> Sou um jovem de 17 anos, que vive no Rio Grande do Sul com os pais. Sou um aventureiro no universo da programação, criando bugs a todo momento, mas quanto mais eu aprendo e passo raiva, mais eu gosto. Eu adoro programar, ver séries e filmes, jogar jogos e gosto de       aprender coisas novas. </p>
+<p> Sou um jovem de 18 anos, que vive no Rio Grande do Sul com os pais. Sou um aventureiro no universo da programação, criando bugs a todo momento, mas quanto mais eu aprendo e passo raiva, mais eu gosto. Eu adoro programar, ver séries e filmes, jogar jogos e gosto de       aprender coisas novas. </p>
 
 <p> Foi no ano de 2022 que eu descobri o mundo da programação, e ao encontrá-lo, fiquei realizado. Gostei desde o primeiro momento. Com o tempo, fui percebendo que nem tudo são mil maravilhas 😅, que sempre irá existir um bug que iremos enfrentar, mas mesmo assim, a cada dia estou aprendendo mais e, sinceramente, estou       curtindo. </p>
 
